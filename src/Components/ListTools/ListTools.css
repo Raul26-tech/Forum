@@ -1,0 +1,18 @@
+.decoration-name-tools{
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+    display: inline;
+}
+
+.display-inline-flex{
+    display: inline-flex;
+}
+
+.btn-romeve{
+    cursor: pointer;
+}
+
+.btn-romeve:hover{
+    border-bottom:solid 2px #ccc;
+}
