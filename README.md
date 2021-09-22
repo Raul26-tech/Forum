@@ -1,4 +1,4 @@
-<h1> Projeto React Forúm de técnologias </>
+<h1> Projeto React Forúm de técnologias <h1/>
 
 <h3> O projeto basicamente basicamente consiste em um forúm de técnologias, onde você pode adicionar uma tecnologia e 
   argumentar sobre ela, se tratando de um forúm, gerando conhecimento. <h3/>
