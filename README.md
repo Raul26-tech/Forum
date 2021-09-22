@@ -22,7 +22,7 @@
   
  <h3>Funcionalidades<h3/>
     
- Fazer inclusão de cards
+ + Fazer inclusão de cards
  Fazer pesquisas de tecnologias
  Fazer pesquisas através de tags
  Excluír nossos posts
