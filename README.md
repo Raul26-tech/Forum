@@ -23,13 +23,13 @@
  <h3>Funcionalidades<h3/>
     
  + Fazer inclusão de cards
- Fazer pesquisas de tecnologias
- Fazer pesquisas através de tags
- Excluír nossos posts
+ + Fazer pesquisas de tecnologias
+ + Fazer pesquisas através de tags
+ + Excluír nossos posts
   
   <h3> Requisitos <h3/>
      
-   NodeJS v5.2.0+
+   + NodeJS v5.2.0+
      
   <h3> Como execultar <h3/>
     
@@ -41,13 +41,13 @@
     Todas as requisições de POST para esta API devem conter
     o header Content-Type: application/json. Esta API contém as seguintes rotas:
 
-GET /tools : lista as ferramentas cadastradas
-POST /tools : cria uma nova ferramenta
-DELETE /tools/:id : apaga a ferramenta com ID :id
-Para filtrar as ferramentas em GET /tools, é possível:
++ GET /tools : lista as ferramentas cadastradas
++ POST /tools : cria uma nova ferramenta
++ DELETE /tools/:id : apaga a ferramenta com ID :id
++ Para filtrar as ferramentas em GET /tools, é possível:
 
-* fazer uma busca global utilizando a query string ?q=:busca;
-* fazer uma busca por tags individuais utilizando a query string ?tags_like=:busca.
++ fazer uma busca global utilizando a query string ?q=:busca;
++ fazer uma busca por tags individuais utilizando a query string ?tags_like=:busca.
     
     
     
