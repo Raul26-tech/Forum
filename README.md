@@ -12,7 +12,6 @@
   * React-Bootstrap
   * Material-ui
   * Node.js v14.16.1
-  *
   *  Axios
   
   
@@ -23,14 +22,14 @@
   
   <h3> Funcionalidades <h3/>
     
-     Fazer inclusão de cards
-     Fazer pesquisas de tecnologias
-     Fazer pesquisas através de tags
-     Excluír nossos posts
+    * Fazer inclusão de cards
+    * Fazer pesquisas de tecnologias
+    * Fazer pesquisas através de tags
+    * Excluír nossos posts
   
    <h3> Requisitos <h3/>
      
-      NodeJS v5.2.0+
+     * NodeJS v5.2.0+
      
   <h3> Como execultar <h3/>
     
