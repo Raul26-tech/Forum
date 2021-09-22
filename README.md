@@ -5,14 +5,15 @@
 
 <h3>Tecnologias usadas para o desenvolvimento</h3>
   
-   HTML5
-   Css3
-   Java Script
-   React.js
-   React-Bootstrap
-   Material-ui
-   Node.js v14.16.1
-   Axios
+  * HTML5
+  * Css3
+  * Java Script
+  * React.js
+  * React-Bootstrap
+  * Material-ui
+  * Node.js v14.16.1
+  *
+  *  Axios
   
   
  <h3> Desenvolvimento<h3/>
