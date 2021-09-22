@@ -33,7 +33,7 @@
      
   <h3> Como execultar <h3/>
     
-   <p> Faça o clone/download deste repositório, execute npm install e npx json-server db.json. A API fica localizada em http://localhost:3000.
+   <p> Faça o clone/download deste repositório, execute npm install e npx json-server db.json. A API fica localizada em http://localhost:3000.<br>
     OBS: Como gerenciador de dependências, é possível utilizar (Yarn) ou (npm).<p/>
     
   <h3>Rotas<h3/>
