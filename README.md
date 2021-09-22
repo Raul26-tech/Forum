@@ -5,14 +5,14 @@
 
 <h3>Tecnologias usadas para o desenvolvimento</h3>
   
-  * HTML5
-  * Css3
-  * Java Script
-  * React.js
-  * React-Bootstrap
-  * Material-ui
-  * Node.js v14.16.1
-  * Axios
+   HTML5
+   Css3
+   Java Script
+   React.js
+   React-Bootstrap
+   Material-ui
+   Node.js v14.16.1
+   Axios
   
   
  <h3> Desenvolvimento<h3/>
@@ -22,14 +22,14 @@
   
   <h3> Funcionalidades <h3/>
     
-    * Fazer inclusão de cards
-    * Fazer pesquisas de tecnologias
-    * Fazer pesquisas através de tags
-    * Excluír nossos posts
+     Fazer inclusão de cards
+     Fazer pesquisas de tecnologias
+     Fazer pesquisas através de tags
+     Excluír nossos posts
   
    <h3> Requisitos <h3/>
      
-     * NodeJS v5.2.0+
+      NodeJS v5.2.0+
      
   <h3> Como execultar <h3/>
     
@@ -39,7 +39,8 @@
     
   <h3> Rotas <h3/>
     
-    Todas as requisições de POST para esta API devem conter o header Content-Type: application/json. Esta API contém as seguintes rotas:
+    Todas as requisições de POST para esta API devem conter
+    o header Content-Type: application/json. Esta API contém as seguintes rotas:
 
 GET /tools : lista as ferramentas cadastradas
 POST /tools : cria uma nova ferramenta
