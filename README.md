@@ -42,13 +42,13 @@
     Todas as requisições de POST para esta API devem conter
     o header Content-Type: application/json. Esta API contém as seguintes rotas:
 
-GET /tools : lista as ferramentas cadastradas
-POST /tools : cria uma nova ferramenta
-DELETE /tools/:id : apaga a ferramenta com ID :id
-Para filtrar as ferramentas em GET /tools, é possível:
+* GET /tools : lista as ferramentas cadastradas
+* POST /tools : cria uma nova ferramenta
+* DELETE /tools/:id : apaga a ferramenta com ID :id
+* Para filtrar as ferramentas em GET /tools, é possível:
 
-fazer uma busca global utilizando a query string ?q=:busca;
-fazer uma busca por tags individuais utilizando a query string ?tags_like=:busca.
+* fazer uma busca global utilizando a query string ?q=:busca;
+* fazer uma busca por tags individuais utilizando a query string ?tags_like=:busca.
     
     
     
