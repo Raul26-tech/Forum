@@ -15,12 +15,12 @@
   *  Axios
   
   
- <h3> Desenvolvimento<h3/>
+ <h3>Desenvolvimento<h3/>
   
-  Nesse CRUD fizemos o consumo de de uma API REST que foi desenvolvida em Node.js, para fazermos o consumo,
-  usamos o AXIOS, o front-end foi desenvolvido utilizando Java Scrip com a biblioteca React.js
+  <p>Nesse CRUD fizemos o consumo de de uma API REST que foi desenvolvida em Node.js, para fazermos o consumo,
+  usamos o AXIOS, o front-end foi desenvolvido utilizando Java Scrip com a biblioteca React.js<p/>
   
-  <h3> Funcionalidades <h3/>
+  <h3>Funcionalidades<h3/>
     
     * Fazer inclusão de cards
     * Fazer pesquisas de tecnologias
@@ -33,11 +33,11 @@
      
   <h3> Como execultar <h3/>
     
-    Faça o clone/download deste repositório, execute npm install 
+   <p> Faça o clone/download deste repositório, execute npm install 
     e npx json-server db.json. A API fica localizada em http://localhost:3000.
-    OBS: Como gerenciador de dependências, é possível utilizar (Yarn) ou (npm).
+    OBS: Como gerenciador de dependências, é possível utilizar (Yarn) ou (npm).<p/>
     
-  <h3> Rotas <h3/>
+  <h3>Rotas<h3/>
     
     Todas as requisições de POST para esta API devem conter
     o header Content-Type: application/json. Esta API contém as seguintes rotas:
